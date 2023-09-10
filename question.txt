@@ -1,0 +1,4 @@
+Consider a file named “OERegistration.txt”. This file contains USNs of BMSIT students from
+civil, mechanical, ISE,CSE and ETC branches who have registered for Open elective. Your
+task is to develop a C program to find a number of students from the mechanical branch
+registered for the course. ALso print their USNs

@@ -1,0 +1,4 @@
+Possible enhancements
+1. [Learning curve: medium] Use command line args to take filename input
+2. Add validation and reject lines that do seem to be USN, eg: 000ABCDEGH (same length but not a usn) or 1RV15 (length mismatch) etc
+3. More edge cases? Does empty file give proper outputs? why or why not?
